@@ -1,4 +1,4 @@
-package example_module
+package greetings
 
 import "fmt"
 
